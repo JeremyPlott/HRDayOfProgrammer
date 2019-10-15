@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HRDayOfProgrammer": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\repos\\HRDayOfProgrammer"
+    }
+  }
+}
